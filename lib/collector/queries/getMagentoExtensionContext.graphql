@@ -1,0 +1,5 @@
+query magentoExtensionContext {
+  magentoExtensionContext: dataServicesMagentoExtensionContext {
+    magento_extension_version
+  }
+}
